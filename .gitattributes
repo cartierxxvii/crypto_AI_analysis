@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+trading_env/lib/**/*.dylib filter=lfs diff=lfs merge=lfs -text
