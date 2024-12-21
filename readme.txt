@@ -61,7 +61,7 @@ Crypto Trading Tool is a comprehensive application for cryptocurrency analysis a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/crypto_trading_tool.git
+git clone https://github.com/cartierxvii/crypto_trading_tool.git
 cd crypto_trading_tool
 ```
 
@@ -236,7 +236,7 @@ Crypto Trading Tool est une application complète d'analyse et de trading automa
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/username/crypto_trading_tool.git
+git clone https://github.com/cartierxvii/crypto_trading_tool.git
 cd crypto_trading_tool
 ```
 
